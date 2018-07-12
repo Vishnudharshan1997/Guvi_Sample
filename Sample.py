@@ -1,6 +1,6 @@
 a = int(input())
 if(a<0):
-  print("\nInvalid")
+  print("\ninvalid")
 elif(a%2==0):
   print("\nEven")
 else:
