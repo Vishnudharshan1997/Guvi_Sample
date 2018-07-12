@@ -1,2 +1,2 @@
-a = list(input())
-print(max(a))
+num = list(input())
+print(max(num))
